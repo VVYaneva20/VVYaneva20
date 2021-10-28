@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I am currently studying C++, HTML 5 & CSS 3.
 - 📩 You can reach me at vvyaneva20@codingburgas.bg.
 
-<img align="right" height ="250px" src="https://raw.githubusercontent.com/npentrel/octoclippy/master/gifs/ears.gif" />
+<img align="right" height ="260px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />
 
 ## My social medias 📸
 
